@@ -10,4 +10,4 @@ API/SqlServerTypes ---> Every folder/file in this folder needs to be copied to t
 
 SELLERS/SqlServerTypes ---> Every folder/file in this folder needs to be copied to the SqlServerTypes in the Auction-Prop-Sellers folder.
 
-// --- Should You Not Understan, Just Let Us Know --- //
+// --- Should You Not Understand, Just Let Us Know --- //
