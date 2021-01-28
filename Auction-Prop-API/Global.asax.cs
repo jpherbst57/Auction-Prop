@@ -25,7 +25,7 @@ namespace Auction_Prop_API
                         .SerializerSettings
                         .ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
 
-            SqlServerTypes.Utilities.LoadNativeAssemblies(Server.MapPath("~/bin"));
+            SqlServerTypes.Utilities.LoadNativeAssemblies(Server.MapPath("~"));
 
         }
     }
